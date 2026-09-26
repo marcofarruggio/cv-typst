@@ -4,6 +4,8 @@ A CV as code: **one YAML file with all the content, many PDFs out of it.**
 
 Instead of keeping several copies of a CV in a design tool (Italian/English, one per role, one per application), all the content lives in a single file and each version is just a small configuration that picks what to show.
 
+![Two templates from the same data: ATS-friendly (left) and design (right)](docs/preview.jpg)
+
 ## How it works
 
 ```
