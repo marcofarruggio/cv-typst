@@ -1,0 +1,5 @@
+lang: it
+profile: sport
+max_priority: 1
+sections: [summary, experience, skills, education, certifications, languages]
+experience_first: [club, instructor]

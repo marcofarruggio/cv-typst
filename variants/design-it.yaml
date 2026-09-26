@@ -1,0 +1,6 @@
+lang: it
+profile: data
+max_priority: 1
+template: design
+photo: false
+sections: [summary, experience, skills, education, certifications, languages]
